@@ -1,0 +1,16 @@
+Com base no seguinte enunciado, desenvolva a seguinte aplicação utilizando Programa de Orientação a Objetos + Lógica.
+
+Não resolva o problema de uma vez, faça em partes.
+
+O enunciado é o seguinte:
+
+Você precisa desenvolver um sistema simples de Notas escolares em
+C# ou Java.
+O sistema deve:
+1. Ter uma classe Aluno com propriedades como Nome, Matricula e Lista de notas.
+2. Implementar um método na classe Aluno para calcular a média das notas.
+3. Ter uma classe GerenciadorAlunos que armazene uma lista de alunos que permita adicionar novos alunos e as suas notas,
+listar os alunos, mostrar a média e a situação de cada aluno(Aprovado/Reprovado, considerando média >= 7).
+5. (Desafio extra) – Permitir remover alunos do GerenciadorAlunos.
+
+Escreva o código completo, bem estruturado e comentado.
